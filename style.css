@@ -1,0 +1,11 @@
+body{
+    background-image: url("images/kampus-bg.png");
+}
+
+.container {
+    width: 30%;
+    margin-top: 9%;
+    box: 0 3px 20px blue;
+    padding: 40px;
+    background-color: #fff;
+}
